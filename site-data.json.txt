@@ -1,0 +1,45 @@
+{
+  "profile": {
+    "image": "assets/profile.jpg"
+  },
+  "cv": {
+    "url": "assets/CV.pdf"
+  },
+  "certificatesPack": {
+    "url": "certificates/certificates.pdf"
+  },
+  "tools": {
+    "iso14064": {
+      "image": "projects/iso14064-platform.jpg",
+      "link": "https://mohamed-elseuofy.github.io/ISO14064-ABD-ELSALM3/"
+    },
+    "personalCarbon": {
+      "image": "projects/personal-carbon-calculator.jpg",
+      "link": "[ADD PERSONAL CARBON FOOTPRINT LINK HERE]"
+    }
+  },
+  "videos": {
+    "video1": {
+      "title": "ISO 50001 Energy Management Training",
+      "description": "Professional training on energy management systems, KPIs, baselines, and implementation.",
+      "link": "[ADD VIDEO LINK HERE]"
+    },
+    "video2": {
+      "title": "Carbon Footprint and ISO 14064",
+      "description": "Training content on emissions, GHG inventory, activity data, factors, and reporting.",
+      "link": "[ADD VIDEO LINK HERE]"
+    },
+    "video3": {
+      "title": "Hydrogen Utilization and Liquefaction",
+      "description": "Lecture content on hydrogen production, storage, utilization, transportation, and liquefaction.",
+      "link": "[ADD VIDEO LINK HERE]"
+    }
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/mohamed-seuofy-994339a5/",
+    "googleScholar": "[ADD GOOGLE SCHOLAR LINK HERE]",
+    "researchGate": "[ADD RESEARCHGATE LINK HERE]",
+    "youtube": "[ADD YOUTUBE LINK HERE]",
+    "github": "[ADD GITHUB LINK HERE]"
+  }
+}

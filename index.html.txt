@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Dr. Mohamed El Seuofy | Professional Instructor Portfolio</title>
+
+  <meta
+    name="description"
+    content="Professional instructor portfolio of Dr. Mohamed Ahmed Abd El Salam El Seuofy: Energy Expert, ISO 50001 Lead Auditor & Trainer, Carbon Footprint Lead Auditor & Trainer, Hydrogen Utilization and Liquefaction Expert, Mechanical Engineer, CEM, CEA."
+  />
+
+  <meta
+    name="keywords"
+    content="Mohamed El Seuofy, Energy Expert, ISO 50001 Trainer, Carbon Footprint Trainer, ISO 14064, ISO 14067, Hydrogen Liquefaction, Energy Efficiency, Rotating Equipment, Certified Energy Manager, Certified Energy Auditor"
+  />
+
+  <meta name="author" content="Dr. Mohamed Ahmed Abd El Salam El Seuofy" />
+  <meta name="theme-color" content="#0b3d3f" />
+
+  <meta property="og:title" content="Dr. Mohamed El Seuofy | Professional Instructor Portfolio" />
+  <meta property="og:description" content="Energy, sustainability, decarbonization, ISO standards, hydrogen, and rotating equipment instructor portfolio." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="assets/profile.jpg" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="site-header">
+    <nav class="navbar" aria-label="Main navigation">
+      <a href="#home" class="brand" aria-label="Dr. Mohamed El Seuofy home">
+        <span class="brand-logo">MS</span>
+        <span>
+          <strong>Dr. Mohamed El Seuofy</strong>
+          <small>Professional Instructor Portfolio</small>
+        </span>
+      </a>
+
+      <button class="nav-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#training">Training</a></li>
+        <li><a href="#certificates">Certificates</a></li>
+        <li><a href="#tools">Digital Tools</a></li>
+        <li><a href="#papers">Papers</a></li>
+        <li><a href="#videos">Videos</a></li>
+        <li><a href="#links">Links</a></li>
+        <li><a href="#contact" class="nav-cta">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main">
+    <!-- Hero -->
+    <section class="hero section" id="home">
+      <div class="hero-bg" aria-hidden="true"></div>
+
+      <div class="container hero-grid">
+        <div class="hero-content reveal">
+          <p class="eyebrow">Professional Instructor Portfolio</p>
+
+          <h1>Dr. Mohamed Ahmed Abd El Salam El Seuofy</h1>
+
+          <p class="hero-title">
+            Mechanical Engineer | Energy Expert | ISO 50001 Lead Auditor & Trainer |
+            Carbon Footprint Lead Auditor & Trainer | Maintenance & Rotating Equipment Specialist |
+            Hydrogen Utilization & Liquefaction Expert | CEM | CEA | M.Sc. | PhD
+          </p>
+
+          <p class="hero-text">
+            I help industrial teams, engineers, and organizations improve energy
+            performance, equipment reliability, carbon reporting, and technical
+            capabilities through practical training, consulting, research, and digital tools.
+          </p>
+
+          <div class="hero-actions">
+            <a class="btn btn-primary" data-href="cv.url" href="assets/CV.pdf" target="_blank" rel="noopener">
+              View My CV
+            </a>
+            <a class="btn btn-light" data-href="cv.url" href="assets/CV.pdf" download>
+              Download CV
+            </a>
+            <a class="btn btn-outline" href="#training">Training Topics</a>
+            <a class="btn btn-outline" href="#contact">Contact Me</a>
+          </div>
+
+          <div class="hero-metrics" aria-label="Professional highlights">
+            <article>
+              <strong>15+</strong>
+              <span>Years Experience</span>
+            </article>
+            <article>
+              <strong>ISO</strong>
+              <span>50001 / 50002 / 14064 / 14067</span>
+            </article>
+            <article>
+              <strong>H₂</strong>
+              <span>Hydrogen Research</span>
+            </article>
+            <article>
+              <strong>3</strong>
+              <span>Published Papers</span>
+            </article>
+          </div>
+        </div>
+
+        <aside class="profile-card reveal">
+          <div class="profile-image-area">
+            <img
+              data-src="profile.image"
+              src="assets/profile.jpg"
+              alt="Professional portrait of Dr. Mohamed Ahmed Abd El Salam El Seuofy"
+              class="profile-image"
+            />
+            <div class="image-placeholder">
+              Add profile image:<br />
+              <code>assets/profile.jpg</code>
+            </div>
+          </div>
+
+          <div class="profile-info">
+            <h2>Instructor • Consultant • Researcher</h2>
+            <p>
+              Energy efficiency, carbon footprint, ISO systems, rotating equipment,
+              hydrogen utilization, liquefaction, and industrial decarbonization.
+            </p>
+
+            <ul class="contact-mini">
+              <li>
+                <span>Location</span>
+                <strong>Alexandria, Egypt</strong>
+              </li>
+              <li>
+                <span>Email</span>
+                <a href="mailto:m.seuofy@outlook.com">m.seuofy@outlook.com</a>
+              </li>
+              <li>
+                <span>Mobile</span>
+                <a href="tel:+201207763554">+2 01207763554</a>
+              </li>
+            </ul>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section class="section" id="about">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="eyebrow">About</p>
+          <h2>Engineering knowledge transformed into practical industrial impact.</h2>
+          <p>
+            A professional portfolio for training, consulting, research collaboration,
+            industrial energy improvement, carbon management, and technical capacity building.
+          </p>
+        </div>
+
+        <div class="about-grid">
+          <article class="card large-card reveal">
+            <h3>Professional Bio</h3>
+            <p>
+              I am a results-driven mechanical engineer, energy efficiency leader,
+              hydrogen researcher, and professional trainer with over 15 years of
+              experience in the oil and petrochemical industries. My work focuses on
+              transforming engineering knowledge into practical improvements that enhance
+              equipment reliability, reduce energy consumption, minimize downtime, and
+              support measurable operational and financial value.
+            </p>
+            <p>
+              As a Certified Energy Manager, Certified Energy Auditor, and ISO 50001 Lead Auditor,
+              I support energy management systems, energy audits, greenhouse gas reporting,
+              carbon footprint calculation, and decarbonization programs. My PhD and M.Sc.
+              research connect industrial heat transfer, cryogenic hydrogen, green hydrogen
+              systems, and advanced hydrogen liquefaction technologies.
+            </p>
+            <p>
+              I also deliver technical training and mentoring programs for engineers and industrial
+              teams, helping organizations build internal capabilities in energy performance,
+              rotating equipment, ISO implementation, troubleshooting, and continuous improvement.
+            </p>
+          </article>
+
+          <div class="side-stack">
+            <article class="card reveal">
+              <h3>Education</h3>
+              <ul class="timeline">
+                <li>
+                  <span>2026</span>
+                  <strong>PhD in Mechanical Engineering</strong>
+                  <small>Alexandria University, Faculty of Engineering</small>
+                </li>
+                <li>
+                  <span>2018</span>
+                  <strong>M.Sc. in Mechanical Engineering</strong>
+                  <small>Alexandria University, Faculty of Engineering</small>
+                </li>
+                <li>
+                  <span>2011</span>
+                  <strong>B.Sc. in Mechanical Engineering</strong>
+                  <small>Alexandria University, Faculty of Engineering</small>
+                </li>
+              </ul>
+            </article>
+
+            <article class="card accent-card reveal">
+              <h3>Current Position</h3>
+              <p>
+                Managing Director / Section Head of Energy Efficiency and Mechanical Equipment Follow-up.
+              </p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Training -->
+    <section class="section muted" id="training">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Training</p>
+          <h2>Instructor-led programs in energy, sustainability, and decarbonization.</h2>
+          <p>
+            Training experience across EPC, AMOC, ASORC, CORC, WEPCO, Yemen Mobile,
+            and training centers in Egypt, Yemen, KSA, and the region.
+          </p>
+        </div>
+
+        <article class="card training-intro reveal">
+          <h3>Instructor Training Topics – Energy, Sustainability, and Decarbonization</h3>
+          <p>
+            As an instructor, my training portfolio focuses on energy transition, energy efficiency,
+            renewable energy, decarbonization, and industrial energy systems. The training topics are
+            designed to combine international standards, practical implementation, technical calculations,
+            and real industrial applications.
+          </p>
+          <p class="byline">By: Dr. Mohamed El Seuofy</p>
+        </article>
+
+        <div class="topic-grid">
+          <article class="topic-card reveal">
+            <span>01</span>
+            <h3>Introduction to Energy Transition</h3>
+            <p>Global shift from conventional systems to cleaner, efficient, low-carbon energy solutions.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>02</span>
+            <h3>Decarbonization Pillars</h3>
+            <p>Energy efficiency, renewables, electrification, fuel switching, carbon management, hydrogen, and optimization.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>03</span>
+            <h3>Energy Management System – ISO 50001</h3>
+            <p>Energy policy, planning, EnPIs, baselines, operational control, monitoring, awareness, and action plans.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>04</span>
+            <h3>ISO 50001 Implementation – ISO 50004 Guidance</h3>
+            <p>Practical implementation steps, documentation, responsibilities, energy review, action plans, and continual improvement.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>05</span>
+            <h3>Technical Energy Efficiency Audit Knowledge Areas</h3>
+            <p>Lighting, HVAC, motors, pumps, fans, compressed air, boilers, steam, process heating, cooling, controls, and BMS.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>06</span>
+            <h3>Energy Audit According to ISO 50002</h3>
+            <p>Audit planning, data collection, energy balance, inspection, ECMs, reporting, and prioritization.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>07</span>
+            <h3>Renewable Energy Design and Applications</h3>
+            <p>Design concepts, feasibility, sizing, performance analysis, solar PV, and integration in buildings and industry.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>08</span>
+            <h3>Hydrogen Generation, Utilization, and Transportation</h3>
+            <p>Production, utilization, storage, transportation, safety, and industrial applications aligned with PhD research.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>09</span>
+            <h3>Flare Gas Recovery</h3>
+            <p>Waste gas recovery, fuel saving, emission reduction, process integration, components, and economics.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>10</span>
+            <h3>Carbon Emissions and Carbon Footprint</h3>
+            <p>GHG accounting, emission sources, activity data, emission factors, ISO 14064, and ISO 14067 reporting.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>11</span>
+            <h3>Energy Equations, Calculations, and HYSYS Simulation</h3>
+            <p>Fuel saving, heat and mass balance, energy performance, and Aspen HYSYS simulation for energy-saving projects.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>12</span>
+            <h3>Motors, Compressed Air & Pump Optimization</h3>
+            <p>Practical optimization of industrial utility systems and energy-intensive equipment.</p>
+          </article>
+
+          <article class="topic-card reveal">
+            <span>13</span>
+            <h3>Heat Transfer, Boiler, Furnace and Steam Management</h3>
+            <p>Thermal systems, combustion, steam networks, heat transfer improvement, and industrial energy conservation.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Certificates -->
+    <section class="section" id="certificates">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Certificates</p>
+          <h2>Professional certifications and technical credentials.</h2>
+          <p>
+            Add your certificate images or a full certificate PDF pack. Visitors can download the certificate file.
+          </p>
+        </div>
+
+        <div class="section-actions reveal">
+          <a
+            class="btn btn-primary"
+            data-href="certificatesPack.url"
+            href="certificates/certificates.pdf"
+            target="_blank"
+            rel="noopener"
+          >
+            View Certificates PDF
+          </a>
+
+          <a
+            class="btn btn-light"
+            data-href="certificatesPack.url"
+            href="certificates/certificates.pdf"
+            download
+          >
+            Download Certificates
+          </a>
+        </div>
+
+        <div class="cert-grid">
+          <article class="cert-card reveal">
+            <img src="certificates/certificate-1.jpg" alt="Certified Energy Manager certificate" />
+            <h3>Certified Energy Manager - CEM</h3>
+            <p>Association of Energy Engineers</p>
+          </article>
+
+          <article class="cert-card reveal">
+            <img src="certificates/certificate-2.jpg" alt="Certified Energy Auditor certificate" />
+            <h3>Certified Energy Auditor - CEA</h3>
+            <p>Association of Energy Engineers</p>
+          </article>
+
+          <article class="cert-card reveal">
+            <img src="certificates/certificate-3.jpg" alt="ISO 50001 Lead Auditor certificate" />
+            <h3>ISO 50001 Lead Auditor</h3>
+            <p>TÜV NORD</p>
+          </article>
+
+          <article class="cert-card reveal">
+            <img src="certificates/certificate-4.jpg" alt="Carbon footprint lead auditor certificate" />
+            <h3>Carbon Footprint / ISO 14064 / ISO 14067</h3>
+            <p>TÜV Austria / NQI / OAPEC</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Digital Tools -->
+    <section class="section muted" id="tools">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Digital Tools</p>
+          <h2>Carbon footprint platforms and practical digital solutions.</h2>
+          <p>
+            Digital tools designed to support greenhouse gas calculation, ISO reporting,
+            personal awareness, and industrial sustainability actions.
+          </p>
+        </div>
+
+        <div class="tool-grid">
+          <article class="tool-card reveal">
+            <div class="tool-media">
+              <img
+                data-src="tools.iso14064.image"
+                src="projects/iso14064-platform.jpg"
+                alt="ISO 14064 GHG Calculator and Reporting Platform screenshot"
+              />
+              <div class="image-placeholder">
+                Add platform image:<br />
+                <code>projects/iso14064-platform.jpg</code>
+              </div>
+            </div>
+
+            <div class="tool-content">
+              <span class="pill">ISO 14064</span>
+              <h3>ISO 14064 GHG Calculator & Reporting Platform</h3>
+              <p>
+                Digital platform for greenhouse gas calculation and reporting aligned with ISO 14064 requirements.
+              </p>
+              <a
+                class="btn btn-primary"
+                data-href="tools.iso14064.link"
+                href="https://mohamed-elseuofy.github.io/ISO14064-ABD-ELSALM3/"
+                target="_blank"
+                rel="noopener"
+              >
+                Open Platform
+              </a>
+            </div>
+          </article>
+
+          <article class="tool-card reveal">
+            <div class="tool-media">
+              <img
+                data-src="tools.personalCarbon.image"
+                src="projects/personal-carbon-calculator.jpg"
+                alt="Personal carbon footprint calculator screenshot"
+              />
+              <div class="image-placeholder">
+                Add calculator image:<br />
+                <code>projects/personal-carbon-calculator.jpg</code>
+              </div>
+            </div>
+
+            <div class="tool-content">
+              <span class="pill">Personal Carbon</span>
+              <h3>Personal Carbon Footprint Calculator</h3>
+              <p>
+                A practical personal carbon footprint calculator for awareness, education,
+                and sustainability training.
+              </p>
+              <a
+                class="btn btn-primary"
+                data-href="tools.personalCarbon.link"
+                href="[ADD PERSONAL CARBON FOOTPRINT LINK HERE]"
+                target="_blank"
+                rel="noopener"
+              >
+                Open Platform
+              </a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects -->
+    <section class="section" id="projects">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Projects</p>
+          <h2>Training projects and industrial improvement highlights.</h2>
+          <p>
+            Practical examples connecting technical training, energy optimization,
+            equipment reliability, digital tools, and decarbonization.
+          </p>
+        </div>
+
+        <div class="project-grid">
+          <article class="project-card reveal">
+            <span class="pill">Training Project</span>
+            <h3>ISO 50001 Implementation Training</h3>
+            <p>Energy management system implementation, performance indicators, baselines, awareness, and continual improvement.</p>
+          </article>
+
+          <article class="project-card reveal">
+            <span class="pill">Carbon Platform</span>
+            <h3>ISO 14064 GHG Calculation and Reporting</h3>
+            <p>Digital tool and training support for organizational greenhouse gas inventory and carbon reporting.</p>
+          </article>
+
+          <article class="project-card reveal">
+            <span class="pill">Energy Optimization</span>
+            <h3>Industrial Energy Performance Improvement</h3>
+            <p>Company-wide energy-saving initiatives across heat systems, electrical systems, and operational controls.</p>
+          </article>
+
+          <article class="project-card reveal">
+            <span class="pill">Hydrogen Research</span>
+            <h3>Hydrogen Utilization and Liquefaction</h3>
+            <p>Research and technical training on green hydrogen, cryogenic systems, advanced cycles, and decarbonization.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Papers -->
+    <section class="section muted" id="papers">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Research Publications</p>
+          <h2>Peer-reviewed work in energy systems, hydrogen, and thermal engineering.</h2>
+          <p>
+            Research publications connecting industrial energy performance, thermal systems,
+            hydrogen liquefaction, and decarbonization.
+          </p>
+        </div>
+
+        <div class="paper-list">
+          <article class="paper-card reveal">
+            <div class="paper-year">2025</div>
+            <div>
+              <h3>
+                Comparative Study of Advanced Hydrogen Liquefaction Using Triple Cascade Mixed
+                Refrigerant Cycles with Integrated Energy, Exergy, Economic and Environmental Analysis
+              </h3>
+              <p>Scientific Reports, Springer Nature</p>
+              <a href="https://www.doi.org/10.1038/s41598-025-14258-8" target="_blank" rel="noopener">
+                DOI: 10.1038/s41598-025-14258-8
+              </a>
+            </div>
+          </article>
+
+          <article class="paper-card reveal">
+            <div class="paper-year">2025</div>
+            <div>
+              <h3>
+                Energy, Exergy, Economic, and Environmental Assessment of a Transcritical
+                Triple-Cascade Mixed Refrigerant Cycle for Hydrogen Liquefaction
+              </h3>
+              <p>Cryogenics</p>
+              <a href="https://doi.org/10.1016/j.cryogenics.2025.104254" target="_blank" rel="noopener">
+                DOI: 10.1016/j.cryogenics.2025.104254
+              </a>
+            </div>
+          </article>
+
+          <article class="paper-card reveal">
+            <div class="paper-year">2018</div>
+            <div>
+              <h3>A Simulation Study of Heat Transfer in Polymerization Reactors</h3>
+              <p>Thermal Science Journal</p>
+              <a href="https://doi.org/10.2298/TSCI170914009E" target="_blank" rel="noopener">
+                DOI: 10.2298/TSCI170914009E
+              </a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Videos -->
+    <section class="section" id="videos">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="eyebrow">VIP Videos</p>
+          <h2>Featured lectures, talks, webinars, and premium learning content.</h2>
+          <p>
+            Add your YouTube, course platform, webinar, conference, or private training links easily from Owner Edit.
+          </p>
+        </div>
+
+        <div class="video-grid">
+          <article class="video-card reveal">
+            <div class="video-thumb">
+              <img src="videos/video-1.jpg" alt="ISO 50001 training video thumbnail" />
+              <span>▶</span>
+            </div>
+            <h3 data-text="videos.video1.title">ISO 50001 Energy Management Training</h3>
+            <p data-text="videos.video1.description">
+              Professional training on energy management systems, KPIs, baselines, and implementation.
+            </p>
+            <a class="btn btn-light" data-href="videos.video1.link" href="[ADD VIDEO LINK HERE]" target="_blank" rel="noopener">
+              Watch Video
+            </a>
+          </article>
+
+          <article class="video-card reveal">
+            <div class="video-thumb">
+              <img src="videos/video-2.jpg" alt="Carbon footprint video thumbnail" />
+              <span>▶</span>
+            </div>
+            <h3 data-text="videos.video2.title">Carbon Footprint and ISO 14064</h3>
+            <p data-text="videos.video2.description">
+              Training content on emissions, GHG inventory, activity data, factors, and reporting.
+            </p>
+            <a class="btn btn-light" data-href="videos.video2.link" href="[ADD VIDEO LINK HERE]" target="_blank" rel="noopener">
+              Watch Video
+            </a>
+          </article>
+
+          <article class="video-card reveal">
+            <div class="video-thumb">
+              <img src="videos/video-3.jpg" alt="Hydrogen systems video thumbnail" />
+              <span>▶</span>
+            </div>
+            <h3 data-text="videos.video3.title">Hydrogen Utilization and Liquefaction</h3>
+            <p data-text="videos.video3.description">
+              Lecture content on hydrogen production, storage, utilization, transportation, and liquefaction.
+            </p>
+            <a class="btn btn-light" data-href="videos.video3.link" href="[ADD VIDEO LINK HERE]" target="_blank" rel="noopener">
+              Watch Video
+            </a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Links -->
+    <section class="section muted" id="links">
+      <div class="container">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Links</p>
+          <h2>Professional platforms and external resources.</h2>
+          <p>
+            Keep these links updated so visitors can access your research, platforms,
+            videos, and professional profiles.
+          </p>
+        </div>
+
+        <div class="link-grid">
+          <a class="link-card reveal" data-href="links.linkedin" href="https://www.linkedin.com/in/mohamed-seuofy-994339a5/" target="_blank" rel="noopener">
+            <span>in</span>
+            <div>
+              <h3>LinkedIn</h3>
+              <p>Professional profile and networking</p>
+            </div>
+          </a>
+
+          <a class="link-card reveal" data-href="tools.iso14064.link" href="https://mohamed-elseuofy.github.io/ISO14064-ABD-ELSALM3/" target="_blank" rel="noopener">
+            <span>CO₂</span>
+            <div>
+              <h3>ISO 14064 Carbon Platform</h3>
+              <p>GHG calculator and reporting platform</p>
+            </div>
+          </a>
+
+          <a class="link-card reveal" data-href="links.googleScholar" href="[ADD GOOGLE SCHOLAR LINK HERE]" target="_blank" rel="noopener">
+            <span>GS</span>
+            <div>
+              <h3>Google Scholar</h3>
+              <p>Research profile</p>
+            </div>
+          </a>
+
+          <a class="link-card reveal" data-href="links.researchGate" href="[ADD RESEARCHGATE LINK HERE]" target="_blank" rel="noopener">
+            <span>RG</span>
+            <div>
+              <h3>ResearchGate</h3>
+              <p>Academic profile</p>
+            </div>
+          </a>
+
+          <a class="link-card reveal" data-href="links.youtube" href="[ADD YOUTUBE LINK HERE]" target="_blank" rel="noopener">
+            <span>▶</span>
+            <div>
+              <h3>YouTube / Videos</h3>
+              <p>Lectures and learning content</p>
+            </div>
+          </a>
+
+          <a class="link-card reveal" data-href="links.github" href="[ADD GITHUB LINK HERE]" target="_blank" rel="noopener">
+            <span>GH</span>
+            <div>
+              <h3>GitHub</h3>
+              <p>Digital tools and projects</p>
+            </div>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="section contact-section" id="contact">
+      <div class="container">
+        <div class="contact-panel reveal">
+          <div>
+            <p class="eyebrow">Contact</p>
+            <h2>Let’s connect for training, consulting, research, or collaboration.</h2>
+            <p>
+              Available for professional training, energy audits, ISO implementation,
+              carbon footprint training, hydrogen topics, conference speaking, and consulting.
+            </p>
+
+            <div class="contact-buttons">
+              <a class="btn btn-primary" href="mailto:m.seuofy@outlook.com">Email Me</a>
+              <a class="btn btn-light" href="tel:+201207763554">Call Me</a>
+              <a class="btn btn-outline" data-href="links.linkedin" href="https://www.linkedin.com/in/mohamed-seuofy-994339a5/" target="_blank" rel="noopener">
+                LinkedIn
+              </a>
+            </div>
+          </div>
+
+          <ul class="contact-list">
+            <li>
+              <span>Email</span>
+              <a href="mailto:m.seuofy@outlook.com">m.seuofy@outlook.com</a>
+            </li>
+            <li>
+              <span>Mobile</span>
+              <a href="tel:+201207763554">+20 120 776 3554</a>
+            </li>
+            <li>
+              <span>Location</span>
+              <strong>Alexandria, Egypt</strong>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <button class="owner-edit-button" type="button" id="ownerEditButton">
+    Owner Edit
+  </button>
+
+  <section class="admin-modal" id="adminModal" hidden aria-label="Owner edit panel">
+    <div class="admin-backdrop" data-close-admin></div>
+
+    <div class="admin-panel" role="dialog" aria-modal="true" aria-labelledby="adminTitle">
+      <div class="admin-header">
+        <div>
+          <p class="eyebrow">Private Owner Area</p>
+          <h2 id="adminTitle">Edit selected website items</h2>
+        </div>
+
+        <button class="icon-button" type="button" data-close-admin aria-label="Close owner edit panel">
+          ×
+        </button>
+      </div>
+
+      <div class="admin-warning">
+        GitHub Pages is static. This panel can save changes locally and export
+        <strong>site-data.json</strong>. To make changes public for everyone,
+        upload the exported file and media files to your GitHub repository.
+      </div>
+
+      <form class="admin-login" id="adminLogin">
+        <label for="adminPassword">Owner password</label>
+        <div class="admin-login-row">
+          <input id="adminPassword" type="password" placeholder="Enter password" autocomplete="current-password" />
+          <button class="btn btn-primary" type="submit">Unlock</button>
+        </div>
+        <p class="admin-status" id="adminLoginStatus" role="status"></p>
+      </form>
+
+      <form class="admin-editor" id="adminEditor" hidden>
+        <div class="admin-fields" id="adminFields"></div>
+
+        <div class="admin-actions">
+          <button class="btn btn-primary" type="submit">Save Local Preview</button>
+          <button class="btn btn-light" type="button" id="exportDataButton">Export site-data.json</button>
+          <button class="btn btn-outline" type="button" id="resetDataButton">Reset Local Changes</button>
+        </div>
+
+        <p class="admin-status" id="adminEditorStatus" role="status"></p>
+      </form>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <strong>Dr. Mohamed Ahmed Abd El Salam El Seuofy</strong>
+        <p>
+          Mechanical Engineer | Energy Expert | ISO Lead Auditor & Trainer |
+          Hydrogen Utilization & Liquefaction Expert
+        </p>
+      </div>
+
+      <div class="footer-links">
+        <a href="#home">Top</a>
+        <a data-href="cv.url" href="assets/CV.pdf" target="_blank" rel="noopener">CV</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
